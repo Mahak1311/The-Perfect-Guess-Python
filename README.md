@@ -1,6 +1,6 @@
 # 🎯 Guess the Number - Python Project
 
-A simple Python-based number guessing game where the user tries to guess a randomly generated number within a defined range. Perfect for beginners learning Python basics like conditionals, loops, and user input.
+A simple Python-based number guessing game where the user tries to guess a randomly generated number within a defined range. Perfect for beginners learning Python basics like conditionals, loops, and user input. 
 
 ---
 
