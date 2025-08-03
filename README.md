@@ -60,6 +60,7 @@ Guess-Game-Python/
 ## 🖥️ Demo
 
 Below is a sample screenshot of the game running in the terminal:
+- [Game Screenshot](20250803_234933.jpg)
 
 
 ---
